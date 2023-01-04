@@ -33,7 +33,7 @@ Before starting work, the requirements and analysis team developed the initial W
 
 To work on the prototype, we must follow the color palette that the client sent:
 
-![Colors](assets/colors.png)
+![Colors](/colors.png)
 
 ### Design System
 

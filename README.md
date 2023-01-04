@@ -29,7 +29,7 @@ In this challenge, we worked on the elaboration of an initial structure of the D
 
 Before starting work, the requirements and analysis team developed the initial WireFrame for the desktop version of the project:
 
-![Dashboard](assets/Dashboard.png)
+![Dashboard](/Dashboard.png)
 
 To work on the prototype, we must follow the color palette that the client sent:
 

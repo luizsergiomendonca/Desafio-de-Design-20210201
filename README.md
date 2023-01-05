@@ -122,4 +122,8 @@ Aqui identificamos todos os componentes e verificamos se há consistência e equ
 
 ![Identificando](/assets/Identificando%20os%20componentes.png)
 
+Agora reorganizamos os elementos respeitando um grid de 12 colunas. Utilizamos o padrão bootstrap.
+
+![Wireframe](/assets/wireframe.png)
+
 

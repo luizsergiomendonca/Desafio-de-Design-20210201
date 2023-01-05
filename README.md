@@ -85,9 +85,9 @@ After this stage, the presentation / correction of the project will be scheduled
 ## Support
 Use [our community](https://coodesh.com/developers#community) to ask questions about the process or send an email to contato@coodesh.com.
 
-## Desenvolvimento da solução
+# Desenvolvimento da solução
 
-Para o desenvolvimento do desafio foram definidos alguns passos:
+## O processo 
 
 1. Inventário
 2. Descoberta

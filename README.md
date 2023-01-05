@@ -114,9 +114,12 @@ Em um artboard organizamos todas as informações recebidadas.
 ![Tablet](/assets/Vers%C3%A3o%20Tablet.png)
 
 
-Após essa análise verificamos os insumos recebidos.
+Após essa análise verificaremos os insumos recebidos.
 
-### Wireframe
+### Análise do Wireframe
 
 Aqui identificamos todos os componentes e verificamos se há consistência e equilíbrio na diagramação dos elementos dentro do template.
+
+![Identificando](/assets/Identificando%20os%20componentes.png)
+
 

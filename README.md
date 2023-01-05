@@ -89,4 +89,6 @@ Use [our community](https://coodesh.com/developers#community) to ask questions a
 
 Para o desenvolvimento do desafio foram definidos alguns passos:
 
-1. 
+1. Inventário
+2. Descoberta
+3. Handoff

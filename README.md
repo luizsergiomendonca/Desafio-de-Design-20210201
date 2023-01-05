@@ -29,11 +29,11 @@ In this challenge, we worked on the elaboration of an initial structure of the D
 
 Before starting work, the requirements and analysis team developed the initial WireFrame for the desktop version of the project:
 
-![Dashboard](/Dashboard.png)
+![Dashboard](/assets/Dashboard.png)
 
 To work on the prototype, we must follow the color palette that the client sent:
 
-![Colors](/colors.png)
+![Colors](/assets/colors.png)
 
 ### Design System
 
@@ -93,7 +93,7 @@ Use [our community](https://coodesh.com/developers#community) to ask questions a
 2. Descoberta
 3. Handoff
 
-![Processo](/Processo.png)
+![Processo](/assets/Processo.png)
 
 ## Inventário
 
@@ -101,4 +101,15 @@ Nessa etapa investigamos e analisamos todos os insumos fornecidos. Aqui é onde 
 
 Em um artboard organizamos todas as informações recebidadas.
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FjVI7kGfLjevtOCLg4jzfd6%2FDS---Trevo-Digital%3Fnode-id%3D2%253A17%26t%3DOGpPJ5KkjxnfiO3U-1" allowfullscreen></iframe>
+![Empresa](/assets/Informa%C3%A7%C3%B5es%20da%20empresa.png)
+
+![Projeto](/assets/Informa%C3%A7%C3%B5es%20do%20projeto.png)
+
+![Requisitos](/assets/Requisitos%20para%20o%20design%20system.png)
+
+![Desktop](/assets/Vers%C3%A3o%20Desktop.png)
+
+![Mobile](/assets/Vers%C3%A3o%20Mobile.png)
+
+![Tablet](/assets/Vers%C3%A3o%20Tablet.png)
+

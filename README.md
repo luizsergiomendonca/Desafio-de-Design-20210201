@@ -94,3 +94,11 @@ Use [our community](https://coodesh.com/developers#community) to ask questions a
 3. Handoff
 
 ![Processo](/Processo.png)
+
+## Inventário
+
+Nessa etapa investigamos e analisamos todos os insumos fornecidos. Aqui é onde se realiza um benchmark interno para entender como tal componente se comporta, qual sua característica, para quais cenários é utilizado.
+
+Em um artboard organizamos todas as informações recebidadas.
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FjVI7kGfLjevtOCLg4jzfd6%2FDS---Trevo-Digital%3Fnode-id%3D2%253A17%26t%3DOGpPJ5KkjxnfiO3U-1" allowfullscreen></iframe>

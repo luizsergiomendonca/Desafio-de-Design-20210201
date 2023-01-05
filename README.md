@@ -126,4 +126,4 @@ Agora reorganizamos os elementos respeitando um grid de 12 colunas. Utilizamos o
 
 ![Grid](/assets/grid.png)
 
-
+![WireframeMobile](/assets/wireframe%20mobile.png)

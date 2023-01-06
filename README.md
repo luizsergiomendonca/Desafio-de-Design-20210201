@@ -122,7 +122,12 @@ Aqui identificamos todos os componentes e verificamos se há consistência e equ
 
 ![Identificando](/assets/Identificando%20os%20componentes.png)
 
+
+## Grid
+
 Agora reorganizamos os elementos respeitando um grid de 12 colunas para desktop e 4 colunas para mobile. Foi utilizado o padrão bootstrap respeitando a proporção de 8px. 
+
+
 
 ### Grid para desktop
 

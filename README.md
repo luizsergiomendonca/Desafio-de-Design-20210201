@@ -157,4 +157,7 @@ A família tipográfica que será utilizada neste design system será a Nunito S
 
 ![Tipografia](/assets/Tipografia.png)
 
+## Bordas e Elevações
+
+![Bordas](/assets/Bordas.png)
 

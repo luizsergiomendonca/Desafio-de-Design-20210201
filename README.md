@@ -149,7 +149,7 @@ Após fazer todas essas comparações e análise, começamos a entender quais s�
 
 Para a composição das cores foi levado em consideração as cores da identidade visual da empresa. Para a composição das telas será utilizado o padrão 60 / 30 / 10.
 
-![Cores](/assets/Cor3.png)
+![Cores](/assets/Cor-completo.png)
 
 ## Tipografia
 

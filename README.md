@@ -128,14 +128,7 @@ Aqui identificamos todos os componentes e verificamos se há consistência e equ
 Agora reorganizamos os elementos respeitando um grid de 12 colunas para desktop e 4 colunas para mobile. Foi utilizado o padrão bootstrap respeitando a proporção de 8px. 
 
 
-
-### Grid para desktop
-
-![Grid](/assets/grid.png)
-
-### Grid para mobile
-
-![WireframeMobile](/assets/mockup-mobile.png)
+![Grid](/assets/Grid-1000.png)
 
 
 ## Descoberta
@@ -163,7 +156,7 @@ A família tipográfica que será utilizada neste design system será a Nunito S
 
 ## Botões
 
-![Botoes](/assets/Button-1000.png)
+![Botoes](/assets/Button-final.png)
 
 ## Tooltip
 
@@ -179,11 +172,27 @@ O menu possui duas aplicações, podendo ser expandido ao passar o mouse sobre e
 
 ## Gráficos
 
-![Graficos](/assets/Gr%C3%A1ficos-1000.png)
+![Graficos](/assets/Gr%C3%A1ficos-final.png)
 
-## Widgets
+## Calendario
 
-![Widgets](/assets/Widgets-1000.png)
+![Calendario](/assets/calendario.png)
+
+## Destaque
+
+![Destaque](/assets/Destaque.png)
+
+## Estatística
+
+![Estatistica](/assets/Estatistica.png)
+
+## Notificações
+
+![Notificacoes](/assets/Notificacoes.png)
+
+## Banner
+
+![Banner](/assets/Banner.png)
 
 # Protótipos
 
@@ -198,7 +207,7 @@ O menu possui duas aplicações, podendo ser expandido ao passar o mouse sobre e
 
 ## Mobile
 
-![Mobile](/assets/Prot%C3%B3tipo%20mobile.png )
+![Mobile](/assets/Prot%C3%B3tipo%20Mobile-final.png)
 
 ### Mockup
 

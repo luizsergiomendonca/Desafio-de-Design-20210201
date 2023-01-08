@@ -163,11 +163,11 @@ A família tipográfica que será utilizada neste design system será a Nunito S
 
 ## Botões
 
-![Botoes](/assets/Button.png)
+![Botoes](/assets/Button-1000.png)
 
 ## Tooltip
 
-![Tootip](/assets/Tooltips.png)
+![Tootip](/assets/Tooltips-1000.png)
 
 # Componentes
 
@@ -175,15 +175,15 @@ A família tipográfica que será utilizada neste design system será a Nunito S
 
 O menu possui duas aplicações, podendo ser expandido ao passar o mouse sobre ele, e fixado caso o usuário assim deseje.
 
-![Menu](/assets/Menu.png)
+![Menu](/assets/Menu-1000.png)
 
 ## Gráficos
 
-![Graficos](/assets/Gr%C3%A1ficos.png)
+![Graficos](/assets/Gr%C3%A1ficos-1000.png)
 
 ## Widgets
 
-![Widgets](/assets/Widgets.png)
+![Widgets](/assets/Widgets-1000.png)
 
 # Protótipos
 
@@ -198,7 +198,7 @@ O menu possui duas aplicações, podendo ser expandido ao passar o mouse sobre e
 
 ## Mobile
 
-![Mobile](/assets/Prot%C3%B3tipo%20mobile.png)
+![Mobile](/assets/Prot%C3%B3tipo%20mobile.png )
 
 ### Mockup
 

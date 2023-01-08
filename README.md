@@ -140,7 +140,7 @@ Agora reorganizamos os elementos respeitando um grid de 12 colunas para desktop 
 
 ## Descoberta
 
-Nesta fase e a investigação não é mais interna mas sim externa, analisamos os principais design systems do mercado (como Carbon, Material Design, Ant Design) para entender como o componente estudado é apresentado por cada um deles.
+Nesta fase a investigação não é mais interna mas sim externa, analisamos os principais design systems do mercado (como Carbon, Material Design, Ant Design) para entender como o componente estudado é apresentado por cada um deles.
 
 Após fazer todas essas comparações e análise, começamos a entender quais são as boas práticas oficiais recomendadas, os estados possíveis do componente e como responder aquelas perguntas que surgiram na etapa do inventário.
 
@@ -161,6 +161,14 @@ A família tipográfica que será utilizada neste design system será a Nunito S
 
 ![Bordas](/assets/Bordas.png)
 
+## Botões
+
+![Botoes](/assets/Button.png)
+
+## Tooltip
+
+![Tootip](/assets/Tooltips.png)
+
 # Componentes
 
 ## Sidebar
@@ -169,6 +177,31 @@ O menu possui duas aplicações, podendo ser expandido ao passar o mouse sobre e
 
 ![Menu](/assets/Menu.png)
 
-## Charts e Widgets
+## Gráficos
 
-![Charts](/assets/Charts%20e%20Widgets2.png)
+![Graficos](/assets/Gr%C3%A1ficos.png)
+
+## Widgets
+
+![Widgets](/assets/Widgets.png)
+
+# Protótipos
+
+## Desktop
+
+![Desk](/assets/Prototipo%20Desktop.png)
+
+### Mockup
+
+![Mkdesk](/assets/mockup%20desktop.jpg)
+
+
+## Mobile
+
+![Mobile](/assets/Prot%C3%B3tipo%20mobile.png)
+
+### Mockup
+
+![MkMoble](/assets/mockup%20mobile.jpg)
+
+## Links

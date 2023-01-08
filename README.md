@@ -165,6 +165,10 @@ A família tipográfica que será utilizada neste design system será a Nunito S
 
 ## Sidebar
 
-o menu possui duas aplicações, podendo ser expandido ao passar o mouse sobre ele, e fixado caso o usuário assim deseje.
+O menu possui duas aplicações, podendo ser expandido ao passar o mouse sobre ele, e fixado caso o usuário assim deseje.
 
 ![Menu](/assets/Menu.png)
+
+## Charts e Widgets
+
+![Charts](/assets/Charts%20e%20Widgets.png)

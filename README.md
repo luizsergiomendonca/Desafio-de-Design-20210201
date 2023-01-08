@@ -171,4 +171,4 @@ O menu possui duas aplicações, podendo ser expandido ao passar o mouse sobre e
 
 ## Charts e Widgets
 
-![Charts](/assets/Charts%20e%20Widgets.png)
+![Charts](/assets/Charts%20e%20Widgets2.png)

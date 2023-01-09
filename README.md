@@ -140,9 +140,9 @@ Agora reorganizamos os elementos respeitando um grid de 12 colunas para desktop,
 
 ## Descoberta
 
-Nesta fase a investigação não é mais interna mas sim externa, analisamos os principais design systems do mercado (como Carbon, Material Design, Ant Design) para entender como o componente estudado é apresentado por cada um deles.
+Nesta fase a investigação não é mais interna mas sim externa, analisamos alguns design systems do mercado para entender como o componente estudado é apresentado por cada um deles.
 
-Após fazer todas essas comparações e análise, começamos a entender quais são as boas práticas oficiais recomendadas, os estados possíveis do componente e como responder aquelas perguntas que surgiram na etapa do inventário.
+Após fazer todas essas comparações e análise, começamos a entender quais são as boas práticas recomendadas, os estados possíveis do componente e como responder aquelas perguntas que surgiram na etapa do inventário.
 
 
 ## Cores
@@ -167,7 +167,7 @@ A família tipográfica que será utilizada neste design system será a Nunito S
 
 ## Tooltip
 
-![Tootip](/assets/Tooltips-1000.png)
+![Tootip](/assets/Tooltips-final.png)
 
 # Componentes
 

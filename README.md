@@ -127,11 +127,11 @@ Aqui identificamos todos os componentes e verificamos se há consistência e equ
 
 Agora reorganizamos os elementos respeitando um grid de 12 colunas para desktop, 6 colunas para tablet e 4 colunas para mobile. Foi utilizado o padrão bootstrap respeitando a proporção de 8px. 
 
-# Grid para desktop
+### Grid para desktop
 
 ![Grid](/assets/Grid%20desktop.png)
 
-# Grid para tablet e smartphone
+### Grid para tablet e smartphone
 
 ![Grid-tablet](/assets/Grid%20tablet%20e%20mobile.png)
 

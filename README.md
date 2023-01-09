@@ -197,13 +197,22 @@ O menu possui duas aplicações, podendo ser expandido ao passar o mouse sobre e
 
 ![Notificacoes](/assets/Notificacoes.png)
 
+## Listas
+
+![ListaDesktop](/assets/Lista%20Desktop.png)
+
+![ListaMobile](/assets/Lista%20Mobile.png)
+
+![ListaTablet](/assets/Lista%20Tablet.png)
+
+
 ## Banner
 
 ![Banner](/assets/Banner.png)
 
 # Protótipos
 
-## Desktop
+## Dashboard para Desktop
 
 ![Desk](/assets/Prototipo%20Desktop.png)
 
@@ -211,22 +220,42 @@ O menu possui duas aplicações, podendo ser expandido ao passar o mouse sobre e
 
 ![Mkdesk](/assets/mockup%20desktop.jpg)
 
+## Lista de clietes para Desktop
 
-## Mobile
+![DeskLita](/assets/Prototipo%20Desktop%20%20-%20Lista%20de%20clientes.png)
 
-![Mobile](/assets/Prot%C3%B3tipo%20Mobile-final.png)
+### Mockup
+
+
+## Dashboard para Mobile
+
+![Mobile](/assets/Dashboard%20Mobile%20completo.png)
 
 ### Mockup
 
 ![MkMoble](/assets/mockup%20mobile.jpg)
 
-## Tablet
+## Lista de clietes para Mobile
+
+![MobileLista](/assets/Ciente%20Mobile%20completo.png)
+
+### Mockup
+
+## Dashboard para Tablet
 
 ![Talet](/assets/Tablet.png)
 
 ### Mockup
 
 ![MkTablet](/assets/Tablet_Mockup_Couch%20copiar.jpg)
+
+## Lista de clietes para Tablet
+
+![TabeltLista](/assets/Tablet%20Lista%20de%20clientes%20final.png)
+
+### Mockup
+
+
 
 ## Links
 

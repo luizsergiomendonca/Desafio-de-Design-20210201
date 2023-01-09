@@ -168,7 +168,7 @@ A família tipográfica que será utilizada neste design system será a Nunito S
 
 O menu possui duas aplicações, podendo ser expandido ao passar o mouse sobre ele, e fixado caso o usuário assim deseje.
 
-![Menu](/assets/Menu-1000.png)
+![Menu](/assets/Menu-final.png)
 
 ## Gráficos
 

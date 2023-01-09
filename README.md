@@ -213,6 +213,14 @@ O menu possui duas aplicações, podendo ser expandido ao passar o mouse sobre e
 
 ![MkMoble](/assets/mockup%20mobile.jpg)
 
+## Tablet
+
+![Talet](/assets/Tablet.png)
+
+### Mockup
+
+![MkTablet](/assets/Tablet_Mockup_Couch%20copiar.jpg)
+
 ## Links
 
 Protótipo no Figma: [bit.ly/3IzpJMS](bit.ly/3IzpJMS)
@@ -220,3 +228,5 @@ Protótipo no Figma: [bit.ly/3IzpJMS](bit.ly/3IzpJMS)
 Protótipo Desktop:[bit.ly/3VUIu07](bit.ly/3VUIu07)
 
 Protótipo Mobile:[bit.ly/3GPjVxj](bit.ly/3GPjVxj)
+
+Protótipo Tablet:

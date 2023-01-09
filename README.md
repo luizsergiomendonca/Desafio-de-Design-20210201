@@ -163,7 +163,7 @@ A família tipográfica que será utilizada neste design system será a Nunito S
 
 ## Botões
 
-![Botoes](/assets/Button-final.png)
+![Botoes](/assets/Button-novos.png)
 
 ## Tooltip
 
@@ -220,12 +220,13 @@ O menu possui duas aplicações, podendo ser expandido ao passar o mouse sobre e
 
 ![Mkdesk](/assets/mockup%20desktop.jpg)
 
-## Lista de clietes para Desktop
+## Lista de clientes para Desktop
 
 ![DeskLita](/assets/Prototipo%20Desktop%20%20-%20Lista%20de%20clientes.png)
 
 ### Mockup
 
+![MockDeskLista](/assets/mockup%20lista%20desktop.jpg)
 
 ## Dashboard para Mobile
 
@@ -235,11 +236,13 @@ O menu possui duas aplicações, podendo ser expandido ao passar o mouse sobre e
 
 ![MkMoble](/assets/mockup%20mobile.jpg)
 
-## Lista de clietes para Mobile
+## Lista de clientes para Mobile
 
 ![MobileLista](/assets/Ciente%20Mobile%20completo.png)
 
 ### Mockup
+
+![MockMobiList](/assets/mockup%20lista%20mobile.jpg)
 
 ## Dashboard para Tablet
 
@@ -249,13 +252,13 @@ O menu possui duas aplicações, podendo ser expandido ao passar o mouse sobre e
 
 ![MkTablet](/assets/Tablet_Mockup_Couch%20copiar.jpg)
 
-## Lista de clietes para Tablet
+## Lista de clientes para Tablet
 
 ![TabeltLista](/assets/Tablet%20Lista%20de%20clientes%20final.png)
 
 ### Mockup
 
-
+![MockListTablet](/assets/Tablet_Mockup-lista.jpg)
 
 ## Links
 

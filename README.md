@@ -87,6 +87,8 @@ Use [our community](https://coodesh.com/developers#community) to ask questions a
 
 # Desenvolvimento da solução
 
+![Mockup](/assets/Responsive_Desktop.jpg)
+
 ## O processo 
 
 1. Inventário
